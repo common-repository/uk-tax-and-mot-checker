@@ -1,0 +1,144 @@
+/** plugin styles **/
+.mot-spacer {
+    clear: both;
+}
+.RegistrationPlate{
+/* registration plate style */ 
+    opacity: 0.9!important;
+    margin-bottom: 0.5em!important;
+    max-width: 195px!important;
+    max-height: 30px!important;
+    font-size: 1.3em!important;
+    font-weight: bold!important;
+    border-radius: 9px!important;
+    padding: 9px!important;
+    padding-left: 60px!important;
+	background: url(https://www.rapidcarcheck.co.uk/CARLOGOS/ukreg.png) #f9c038!important;
+    background-size: auto 100%,100% auto!important;
+    text-transform: uppercase!important;
+    padding-right: 30px!important;
+    color: black!important;
+    bottom: 0px!important;
+    right: 10%!important;
+}
+.RapidCarCheck{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: center!important;
+    width: 100%!important;
+}
+.RapidCarCheckLeft{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: left!important;
+    width: 100%!important;
+}
+.RapidCarCheckRight{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: right!important;
+    width: 100%!important;
+}
+.RapidCarCheckCenter{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: center!important;
+    width: 100%!important;
+}
+.RegSearchBoxT{
+/* input box for registration */ 
+    margin-bottom: 0.2em!important;
+    width: 245px!important;
+    height: 50px!important;
+    font-size: 1.6em!important;
+    font-weight: bold!important;
+    border-radius: 3px!important;
+    padding: 9px!important;	padding-left: 55px!important;
+	background: url(https://www.rapidcarcheck.co.uk/GBREG50x50.png) no-repeat scroll #f9c038!important;	
+    text-transform: uppercase!important;
+    text-align: center!important;
+    box-shadow: none!important;
+    box-sizing: border-box!important;
+    transition: all .2s linear!important;
+    border-width: 1px!important;
+    border-style: solid!important;
+    border-color: #eaeaea!important;
+    color: #4E4E4E!important;
+}
+.vehicle-btn-searchT{
+/* search button for registration search */ 
+background-color:#0274BE!important;
+border-color:#0274BE!important;
+border-radius: 2px!important;
+padding-top: 10px!important;
+padding-right: 20px!important;
+padding-bottom: 10px!important;
+padding-left: 20px!important;
+font-weight: 500!important;
+border-style: solid!important;
+border-top-width: 0!important;
+border-right-width: 0!important;
+border-left-width: 0!important;
+border-bottom-width: 0!important;
+color: #ffffff!important;
+}
+.vehiclecredit{
+text-align:center!important;
+font-size:10px!important;
+padding-top:8px!important;
+}
+
+.vehiclenotfound {
+color: #C75000!important;
+text-align: center!important;	
+font-weight: bold!important;
+}
+.titleheading {
+text-align: center!important;	
+font-weight: bold!important;
+margin-bottom: 1px!important;
+}
+.vehicle_sep_line {
+    border-top-width: 2px!important;
+    border-color: #ebebeb!important;
+    border-top-style: dashed!important;
+}
+.TaxMotResultsLeft{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: left!important;
+    width: 100%!important;
+}
+.TaxMotResultsCenter{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: center!important;
+    width: 100%!important;
+}
+.TaxMotResultsCenter5{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: center!important;
+    width: 100%!important;
+}
+.TaxMotResultsCenter1{
+/* registration search box wrapper */ 
+	display: none;
+}
+.TaxMotResultsCenter2{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: center!important;
+    width: 100%!important;
+}
+.TaxMotResultsRight{
+/* registration search box wrapper */ 
+    margin: 0 auto!important;
+    text-align: right!important;
+    width: 100%!important;
+}
+.centerloadingimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
